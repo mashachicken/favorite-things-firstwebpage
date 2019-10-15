@@ -1,0 +1,22 @@
+img{
+  height: 400px;
+  width: 400px;
+
+}
+
+ body{
+   background-color: #78b7e3;
+   text-align: center;
+   line-height: 50px;
+ }
+
+.list{
+  line-height: 20px;
+  width: 25%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1{
+  font-weight: bold;
+}
